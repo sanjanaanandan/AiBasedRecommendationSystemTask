@@ -53,6 +53,7 @@ How It Works:
 6.Personalized movie recommendations are displayed with scores.
 
 Sample Screenshot:
+
 <img width="617" height="330" alt="Image" src="https://github.com/user-attachments/assets/ca2bf51f-7642-4839-8c61-bf85b1ea488f" />
 
 Learning Outcome:
